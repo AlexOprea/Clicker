@@ -1,0 +1,15 @@
+D:\Tutorials\Clicker\Clicker\bin\Release\Clicker.exe.config
+D:\Tutorials\Clicker\Clicker\bin\Release\Clicker.exe.manifest
+D:\Tutorials\Clicker\Clicker\bin\Release\Clicker.application
+D:\Tutorials\Clicker\Clicker\bin\Release\Clicker.exe
+D:\Tutorials\Clicker\Clicker\bin\Release\Clicker.pdb
+D:\Tutorials\Clicker\Clicker\bin\Release\WindowsInput.dll
+D:\Tutorials\Clicker\Clicker\bin\Release\WindowsInput.xml
+D:\Tutorials\Clicker\Clicker\obj\Release\Clicker.csprojResolveAssemblyReference.cache
+D:\Tutorials\Clicker\Clicker\obj\Release\Clicker.Form1.resources
+D:\Tutorials\Clicker\Clicker\obj\Release\Clicker.Properties.Resources.resources
+D:\Tutorials\Clicker\Clicker\obj\Release\Clicker.csproj.GenerateResource.Cache
+D:\Tutorials\Clicker\Clicker\obj\Release\Clicker.exe.manifest
+D:\Tutorials\Clicker\Clicker\obj\Release\Clicker.application
+D:\Tutorials\Clicker\Clicker\obj\Release\Clicker.exe
+D:\Tutorials\Clicker\Clicker\obj\Release\Clicker.pdb
